@@ -29,7 +29,7 @@
   <a href="https://twitter.com/AbhishekKushwaa">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
   </a>
-  <a href="[https://twitter.com/AbhishekKushwaa](https://leetcode.com/abhishekkushwahaa/)">
+  <a href="https://leetcode.com/abhishekkushwahaa">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="40" height="40">
   </a>
 </div>
