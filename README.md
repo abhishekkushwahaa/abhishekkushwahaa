@@ -22,13 +22,13 @@
 <div>
   <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
-  </a>
+  </a> &nbsp;
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
     <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="40" height="40">
-  </a>
+  </a> &nbsp;
   <a href="https://twitter.com/AbhishekKushwaa">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
-  </a>
+  </a> &nbsp;
   <a href="https://leetcode.com/abhishekkushwahaa">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="40" height="40">
   </a>
