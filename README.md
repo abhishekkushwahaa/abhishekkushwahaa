@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishekkushwaha.me](https://abhishekkushwaha.me)
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, MongoDB, TypeScript Etc.**
 
 - 📫 How to reach me **[abhishekkushwaha.me](https://abhishekkushwaha.me)**
 
