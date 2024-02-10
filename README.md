@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://abhishekkushwaha.me](https://abhishekkushwaha.me)
+- 👨‍💻 All of my projects are available at **[https://abhishekkushwaha.me](https://abhishekkushwaha.me)**
 
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, MongoDB, TypeScript Etc.**
 
@@ -21,15 +21,15 @@
 
 ## 🤝 Connect with me:
 
-  <a href="https://www.linkedin.com/in/abhishekkushwahaa/" text-decoration="none">
-    <img src="./images/linkedin.png" width="40" height="40">
-  </a>
+  <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
+    <img src="./images/linkedin.png" width="40" alt="abhishek || linkedin">
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
-    <img src="./images/instagram.png" width="40" height="40">
-  </a> 
+    <img src="./images/instagram.png" width="40" alt="abhishek || Instagram">
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/AbhishekKushwaa">
-    <img src="./images/twitter.png" width="40" height="40">
-  </a>
+    <img src="./images/twitter.png" width="40" alt="abhishek || Twitter">
+  </a> &nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
@@ -37,8 +37,8 @@
 
 ## 🚀 Projects(Currently Working on it!):
 
-- [Vercel]()
-- [AI-Netflix-Clone]()
+- **[Vercel]()**
+- **[AI-Netflix-Clone]()**
 
 <br>
 
@@ -47,7 +47,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,nextjs,mysql,postgres,nestjs,hono,postman,prisma,redis,redux,sass,vercel,vite,babel,kafka,materialui,bun,emotion,heroku,nginx,p5js,php,"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,nestjs,postman,prisma,redis,redux,sass,vercel,vite,babel,kafka,materialui,bun,emotion,heroku,nginx,p5js,php"/>
   </a>
 </p>
 </div>
