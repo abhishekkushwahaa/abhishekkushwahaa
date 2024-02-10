@@ -19,7 +19,7 @@
 
 
 ## 🤝 Connect with me:
-  <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
+  <a href="https://www.linkedin.com/in/abhishekkushwahaa/" text-decoration="none">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
