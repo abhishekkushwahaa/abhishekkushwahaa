@@ -21,9 +21,9 @@
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/abhishekkushwahaa/"><img align="left" src="./images/linkedin.png" width="40" alt="abhishek || linkedin"/></a> &nbsp;
-<a href="https://www.instagram.com/abhishekkushwaha.me/"><img align="left" src="./images/instagram.png" width="40" alt="abhishek || Instagram"/></a> &nbsp;
-<a href="https://twitter.com/AbhishekKushwaa"><img align="left" src="./images/twitter.png" width="40" alt="abhishek || Twitter"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/abhishekkushwahaa/"><img align="left" src="./images/linkedin.png" width="40" alt="abhishek || linkedin"/></a>
+<a href="https://www.instagram.com/abhishekkushwaha.me/"><img align="left" src="./images/instagram.png" width="40" alt="abhishek || Instagram"/></a>
+<a href="https://twitter.com/AbhishekKushwaa"><img align="left" src="./images/twitter.png" width="40" alt="abhishek || Twitter"/></a>
 
 <br>
 <br>
