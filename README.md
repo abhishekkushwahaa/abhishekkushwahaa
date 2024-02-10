@@ -17,6 +17,7 @@
 
 - 📫 How to reach me **[abhishekkushwaha.me](https://abhishekkushwaha.me)**
 
+<br>
 
 ## 🤝 Connect with me:
   <a href="https://www.linkedin.com/in/abhishekkushwahaa/" text-decoration="none">
@@ -29,11 +30,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
   </a> &nbsp;&nbsp;&nbsp;
 
+<br>
+
 ## 🚀 Projects(Currently Working on it!):
 - [Vercel]()
 - [AI-Netflix-Clone]()
 
+
+<br>
+
 <div id="badges">
+  
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
@@ -41,6 +48,8 @@
   </a>
 </p>
 </div>
+
+<br>
 
 ## 📈 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" /></p>
