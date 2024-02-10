@@ -23,13 +23,13 @@
 
   <a href="https://www.linkedin.com/in/abhishekkushwahaa/" text-decoration="none">
     <img src="./images/linkedin.png" width="40" height="40">
-  </a> &nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
     <img src="./images/instagram.png" width="40" height="40">
-  </a> &nbsp;&nbsp;&nbsp;
+  </a> 
   <a href="https://twitter.com/AbhishekKushwaa">
     <img src="./images/twitter.png" width="40" height="40">
-  </a> &nbsp;&nbsp;&nbsp;
+  </a>
 
 <br>
 <br>
