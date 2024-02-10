@@ -20,22 +20,25 @@
 <br>
 
 ## 🤝 Connect with me:
+
   <a href="https://www.linkedin.com/in/abhishekkushwahaa/" text-decoration="none">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
+    <img src="./images/linkedin.png" width="40" height="40">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/abhishekkushwaha.me/">
-    <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" width="40" height="40">
+    <img src="./images/instagram.png" width="40" height="40">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/AbhishekKushwaa">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="40" height="40">
+    <img src="./images/twitter.png" width="40" height="40">
   </a> &nbsp;&nbsp;&nbsp;
 
 <br>
+<br>
+<br>
 
 ## 🚀 Projects(Currently Working on it!):
+
 - [Vercel]()
 - [AI-Netflix-Clone]()
-
 
 <br>
 
@@ -44,7 +47,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,nextjs,mysql,postgres,nestjs,hono,postman,prisma,redis,redux,sass,vercel,vite,babel,kafka,materialui,bun,emotion,heroku,nginx,p5js,php,"/>
   </a>
 </p>
 </div>
@@ -52,6 +55,7 @@
 <br>
 
 ## 📈 GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkushwahaa&show_icons=true&locale=en" alt="abhishekkushwahaa" /></p>
