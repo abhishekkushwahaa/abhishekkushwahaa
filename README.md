@@ -31,8 +31,8 @@
 
 ## 🚀 Projects(Currently Working on it!):
 
-- **[Vercel]()**
-- **[AI-Netflix-Clone]()**
+- **[Vercel](https://github.com/abhishekkushwahaa/Vercel-Clone)**
+- **[Twitch](https://github.com/abhishekkushwahaa/Twitch-TV)**
 
 <br>
 
