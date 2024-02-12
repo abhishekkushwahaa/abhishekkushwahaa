@@ -32,7 +32,7 @@
 ## 🚀 Projects(Currently Working on it!):
 
 - **[Vercel](https://github.com/abhishekkushwahaa/Vercel-Clone)**
-- **[Twitch](https://github.com/abhishekkushwahaa/Twitch-TV)**
+- **[Twitch](https://github.com/abhishekkushwahaa/twitch-tv)**
 
 <br>
 
