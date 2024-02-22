@@ -8,11 +8,6 @@ on:
     - cron: "* */12 * * *"
 
   workflow_dispatch:
-    
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
