@@ -41,7 +41,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,nestjs,postman,prisma,redis,redux,sass,vercel,vite,babel,kafka,materialui,bun,emotion,heroku,nginx,p5js,php"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,nestjs,postman,prisma,redis,redux,vercel,vite,babel,kafka,materialui,bun,go,heroku,nginx,p5js,php"/>
   </a>
 </p>
 </div>
