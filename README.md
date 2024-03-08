@@ -30,8 +30,6 @@
 <br>
 
 ## 🚀 Projects(Currently Working on it!):
-
-- **[Twitch](https://github.com/abhishekkushwahaa/twitch-tv)**
 - **[Echo.Blog](https://github.com/abhishekkushwahaa/echo.blog.git)**
 
 <br>
