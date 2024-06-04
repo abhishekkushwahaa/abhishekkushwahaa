@@ -29,7 +29,7 @@
 <br>
 <br>
 
-## 🚀 Projects(Currently Working on it!):
+## 🚀 Latest Projects/Blogs:
 - **[Echo.Blog](https://github.com/abhishekkushwahaa/echo.blog.git)**
 - **[Trendvibe](https://github.com/abhishekkushwahaa/trendvibe.git)**
 
