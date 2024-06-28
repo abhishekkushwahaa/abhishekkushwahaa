@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at **[https://abhishekkushwaha.me](https://abhishekkushwaha.tech)**
+- 👨‍💻 All of my projects are available at **[https://abhishekkushwaha.tech](https://abhishekkushwaha.tech)**
 
 - 💬 Ask me about **JavaScript, Golang, TypeScript, Cloud Etc.**
 
-- 📫 How to reach me **[abhishekkushwaha.me](https://abhishekkushwaha.me)**
+- 📫 How to reach me **[abhishekkushwaha.tech](hello@abhishekkushwaha.tech)**
 
 <br>
 
