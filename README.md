@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at **[https://abhishekkushwaha.me](https://abhishekkushwaha.me)**
+- 👨‍💻 All of my projects are available at **[https://abhishekkushwaha.me](https://abhishekkushwaha.tech)**
 
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, MongoDB, TypeScript Etc.**
+- 💬 Ask me about **JavaScript, Golang, TypeScript, Cloud Etc.**
 
 - 📫 How to reach me **[abhishekkushwaha.me](https://abhishekkushwaha.me)**
 
