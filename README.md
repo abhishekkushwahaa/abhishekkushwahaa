@@ -38,7 +38,6 @@
 </p>
 </div>
 
-<br>
 
 ## 📈 GitHub Stats:
 
