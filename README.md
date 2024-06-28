@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, Golang, TypeScript, Cloud Etc.**
 
-- 📫 How to reach me **[abhishekkushwaha.tech](hello@abhishekkushwaha.tech)**
+- 📫 How to reach me **[abhishekkushwaha.tech](https://abhishekkushwaha.tech)**
 
 <br>
 
