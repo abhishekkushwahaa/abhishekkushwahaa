@@ -27,20 +27,13 @@
 
 <br>
 <br>
-<br>
-
-## 🚀 Latest Projects/Blogs:
-- **[Echo.Blog](https://github.com/abhishekkushwahaa/echo.blog.git)**
-- **[Trendvibe](https://github.com/abhishekkushwahaa/trendvibe.git)**
-
-<br>
 
 <div id="badges">
   
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,jquery,java,firebase,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,nestjs,postman,prisma,redis,redux,vercel,vite,babel,kafka,materialui,bun,go,heroku,nginx,p5js,php"/>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx"/>
   </a>
 </p>
 </div>
