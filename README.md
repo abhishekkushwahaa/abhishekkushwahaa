@@ -42,8 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkushwahaa&" alt="abhishekkushwahaa" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkushwahaa" alt="abhishekkushwahaa" /></a> </p>
-
-<br clear="both">
-
 ![Snake animation](https://github.com/abhishekkushwahaa/abhishekkushwahaa/blob/output/github-contribution-grid-snake.svg)
