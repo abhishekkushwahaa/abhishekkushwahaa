@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+<p align="center">
+  I ❤️ <strong>#OpenSource</strong> and am willing to collaborate on any project of interest.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkushwahaa&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkushwahaa" /> </p>
 
@@ -13,18 +15,13 @@
 
 - 💬 Ask me about **JavaScript, Golang, TypeScript, Cloud Etc.**
 
-- 📫 How to reach me **[abhishekkushwaha.tech](https://abhishekkushwaha.tech)**
-
-<br>
+- 📫 How to reach me **[AbhishekKushwaha](mailto:abhishekkushwahaa.dev@gmail.com)**
 
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishekkushwahaa/"><img align="left" src="./images/linkedin.png" width="40" alt="abhishek || linkedin"/></a>
 <a href="https://www.instagram.com/abhishekkushwaha.me/"><img align="left" src="./images/instagram.png" width="40" alt="abhishek || Instagram"/></a>
 <a href="https://twitter.com/AbhishekKushwaa"><img align="left" src="./images/twitter.png" width="40" alt="abhishek || Twitter"/></a>
-
-<br>
-<br>
 
 <div id="badges">
   
