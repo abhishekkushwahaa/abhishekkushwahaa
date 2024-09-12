@@ -16,7 +16,7 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 ### 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kafka,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx" style="width: auto; height: 50px;"/>
   </a>
 </p>
 
