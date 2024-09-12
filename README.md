@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekkushwahaa&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkushwahaa" />
 </p>
 
-I’m currently diving into ***MERN Stack and DevOps*** while serving as a Product Manager at ***TopWorkly***, and I’m enthusiastically learning **DevOps**. Explore all my projects at ***[abhishekkushwaha.tech](https://abhishekkushwaha.tech)***. Feel free to ask me about **JavaScript, Golang, TypeScript, Cloud, and more**. Reach out to me at ***[abhishekKushwaha](mailto:abhishekkushwahaa.dev@gmail.com)***.
+I’m currently diving into ***MERN Stack and DevOps*** while serving as a Product Manager at ***TopWorkly***, and I’m enthusiastically learning **DevOps**. Explore all my projects at ***[abhishekkushwaha.tech](https://abhishekkushwaha.tech)***. Feel free to ask me about **JavaScript, Golang, TypeScript, Cloud, and more**. Reach out to me at ***[abhishekkushwaha](mailto:abhishekkushwahaa.dev@gmail.com)***.
 
 Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, ***[Twitter](https://twitter.com/AbhishekKushwaa)***, ***[Instagram](https://www.instagram.com/abhishekkushwaha.me)*** profile for insights into my professional life. 
 
@@ -22,11 +22,10 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 
 </div>
 
-
 ### 📈 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkushwahaa&show_icons=true&locale=en" alt="abhishekkushwahaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkushwahaa&" alt="abhishekkushwahaa" /></p>
+<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkushwahaa&show_icons=true&locale=en" alt="abhishekkushwahaa" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" height="122" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkushwahaa&" alt="abhishekkushwahaa" width="300" />
+</p>
