@@ -29,9 +29,10 @@ I’m currently diving into ***MERN Stack and DevOps*** while serving as a Produ
 ### 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx" width="30"/>
   </a>
 </p>
+
 </div>
 
 
