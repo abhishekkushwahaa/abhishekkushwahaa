@@ -9,27 +9,14 @@
 
 I’m currently diving into ***MERN Stack and DevOps*** while serving as a Product Manager at ***TopWorkly***, and I’m enthusiastically learning **DevOps**. Explore all my projects at ***[abhishekkushwaha.tech](https://abhishekkushwaha.tech)***. Feel free to ask me about **JavaScript, Golang, TypeScript, Cloud, and more**. Reach out to me at ***[abhishekKushwaha](mailto:abhishekkushwahaa.dev@gmail.com)***.
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/abhishekkushwahaa/">
-  <img align="left" src="./images/linkedin.png" width="30" alt="abhishek || linkedin"  />
-</a>
-<a href="https://www.instagram.com/abhishekkushwaha.me/">
-  <img align="left" src="./images/instagram.png" width="30" alt="abhishek || Instagram" />
-</a>
-<a href="https://twitter.com/AbhishekKushwaa">
-  <img align="left" src="./images/twitter.png" width="30" alt="abhishek || Twitter" />
-</a>
-
-<br>
-<br>
+Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, ***[Twitter](https://twitter.com/AbhishekKushwaa)***, ***[Instagram](https://www.instagram.com/abhishekkushwaha.me)*** profile for insights into my professional life. 
 
 <div id="badges">
 
 ### 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx" width="30"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx"/>
   </a>
 </p>
 
