@@ -14,37 +14,37 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 <div id="badges">
 
 ### 🛠️ Languages and Tools :
-<p style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; margin: 0;">
+<p style="display: flex; flex-wrap: wrap; gap: 5px; padding: 0; margin: 0;">
   <span style="display: flex; flex-wrap: wrap; padding: 0; margin: 0;">
-    <img src="https://skillicons.dev/icons?i=javascript" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=typescript" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=go" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=php" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=react" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=express" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=mongodb" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=html" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=css" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=java" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=git" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=github" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=figma" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=aws" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=docker" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=kafka" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=kubernetes" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=bash" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=linux" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=mysql" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=postgres" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=postman" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=prisma" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=redis" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=bun" style="width: 30px;"/>
-    <img src="https://skillicons.dev/icons?i=nginx" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=javascript" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=typescript" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=go" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=php" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=react" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=express" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=html" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=css" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=java" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=git" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=github" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=figma" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=aws" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=docker" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=kafka" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=bash" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=linux" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=postman" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=prisma" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=redis" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=bun" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=nginx" style="width: 20px;"/>
   </span>
 </p>
 
