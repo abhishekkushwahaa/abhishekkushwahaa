@@ -14,10 +14,38 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 <div id="badges">
 
 ### 🛠️ Languages and Tools :
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,php,react,nodejs,express,mongodb,html,css,tailwind,java,git,github,figma,aws,docker,kafka,kubernetes,bash,linux,nextjs,mysql,postgres,postman,prisma,redis,redux,bun,nginx" style="width: auto; height: 50px;"/>
-  </a>
+<p style="display: flex; flex-wrap: wrap; gap: 10px; padding: 0; margin: 0;">
+  <span style="display: flex; flex-wrap: wrap; padding: 0; margin: 0;">
+    <img src="https://skillicons.dev/icons?i=javascript" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=typescript" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=go" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=php" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=react" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=express" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=html" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=css" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=java" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=git" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=github" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=figma" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=aws" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=docker" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=kafka" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=bash" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=linux" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=postman" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=prisma" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=redis" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=bun" style="width: 30px;"/>
+    <img src="https://skillicons.dev/icons?i=nginx" style="width: 30px;"/>
+  </span>
 </p>
 
 </div>
