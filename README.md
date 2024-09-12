@@ -12,13 +12,13 @@ I’m currently diving into ***MERN Stack and DevOps*** while serving as a Produ
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishekkushwahaa/">
-  <img align="left" src="./images/linkedin.png" width="40" alt="abhishek || linkedin"  />
+  <img align="left" src="./images/linkedin.png" width="30" alt="abhishek || linkedin"  />
 </a>
 <a href="https://www.instagram.com/abhishekkushwaha.me/">
-  <img align="left" src="./images/instagram.png" width="40" alt="abhishek || Instagram" />
+  <img align="left" src="./images/instagram.png" width="30" alt="abhishek || Instagram" />
 </a>
 <a href="https://twitter.com/AbhishekKushwaa">
-  <img align="left" src="./images/twitter.png" width="40" alt="abhishek || Twitter" />
+  <img align="left" src="./images/twitter.png" width="30" alt="abhishek || Twitter" />
 </a>
 
 <br>
