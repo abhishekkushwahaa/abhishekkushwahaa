@@ -22,6 +22,7 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
     <img src="https://skillicons.dev/icons?i=php" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=react" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=nodejs" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=vite" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=express" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=mongodb" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=html" style="width: 20px;"/>
@@ -34,8 +35,11 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
     <img src="https://skillicons.dev/icons?i=aws" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=docker" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=kafka" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=graphql" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=kubernetes" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=fastapi" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=bash" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=python" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=linux" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=nextjs" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=mysql" style="width: 20px;"/>
@@ -44,6 +48,7 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
     <img src="https://skillicons.dev/icons?i=prisma" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=redis" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=bun" style="width: 20px;"/>
+    <img src="https://skillicons.dev/icons?i=cloudflare" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=nginx" style="width: 20px;"/>
   </span>
 </p>
