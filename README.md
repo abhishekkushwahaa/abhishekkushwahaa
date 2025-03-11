@@ -14,7 +14,7 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 <div id="badges">
 
 ### 🛠️ Languages and Tools :
-<p style="display: flex; flex-wrap: wrap; gap: 5px; padding: 0; margin: 0;">
+<p style="display: flex; flex-wrap: wrap; gap: 2px; padding: 0; margin: 0;">
   <span style="display: flex; flex-wrap: wrap; padding: 0; margin: 0;">
     <img src="https://skillicons.dev/icons?i=javascript" style="width: 20px;"/>
     <img src="https://skillicons.dev/icons?i=typescript" style="width: 20px;"/>
@@ -57,8 +57,8 @@ Check out my ***[LinkedIn](https://www.linkedin.com/in/abhishekkushwahaa)***, **
 
 ### 📈 GitHub Stats:
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkushwahaa&show_icons=true&locale=en" alt="abhishekkushwahaa" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" height="122" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekkushwahaa" alt="abhishekkushwahaa" width="300" />
+<p style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkushwahaa&show_icons=true&locale=en" alt="abhishekkushwahaa" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkushwahaa&show_icons=true&locale=en&layout=compact" alt="abhishekkushwahaa" height="100" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekkushwahaa" alt="abhishekkushwahaa" width="250" />
 </p>
